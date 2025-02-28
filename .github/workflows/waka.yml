@@ -1,0 +1,17 @@
+name: WakaTime Monthly Stats
+on:
+  schedule:
+    - cron: "0 0 1 * *"  # Runs on the 1st of every month
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    name: Update README with WakaTime stats
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.waka_a88feb41-89b8-4090-bd46-14a61425e9b2 }}
+          GH_TOKEN: ${{ secrets.wakatime }}
+          SHOW_LANGUAGE : "True"
