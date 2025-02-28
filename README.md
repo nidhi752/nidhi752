@@ -14,14 +14,6 @@ I'm **Nidhi Kuntal**, a **BTech CSE student at Bennett University** passionate a
 
 ---
 
-## 🚀 What I'm Working On
-- 🧠 **AI-powered sign language web app** (focusing on Indian regional languages)
-- 🌍 Exploring **networking & Cisco Packet Tracer**
-- 🎨 Enhancing my **frontend & full-stack skills**
-- 📈 Preparing for **internships at top tech companies**
-
----
-
 ## ⏳ Monthly Tech Engagement
 
 <!--START_SECTION:waka-->
