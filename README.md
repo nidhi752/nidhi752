@@ -22,7 +22,6 @@ I'm **Nidhi Kuntal**, a **BTech CSE student at Bennett University** passionate a
 ## ⏳ Monthly Tech Engagement
 
 <!--START_SECTION:waka-->
-<!-- This section will be automatically updated by GitHub Actions -->
 <!--END_SECTION:waka-->
 
 
