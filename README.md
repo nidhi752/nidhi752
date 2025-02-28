@@ -3,6 +3,9 @@
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80" height="80"/>
 </div>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 ## 👩‍💻 About Me
 I'm **Nidhi Kuntal**, a **BTech CSE student at Bennett University** passionate about AI, full-stack development, and open-source. Currently, I'm building an **AI-powered sign language translation app** to make communication more accessible for **deaf, blind, and mute individuals**.
@@ -57,9 +60,6 @@ If you like what I do, consider buying me a coffee! 😄
 
 
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
 
 
 [![An image of @nidhi752's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nidhi752)](https://holopin.io/@nidhi752)
