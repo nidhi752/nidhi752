@@ -10,7 +10,7 @@
 ## 👩‍💻 About Me
 I'm **Nidhi Kuntal**, a **BTech CSE student at Bennett University** passionate about AI, full-stack development, and open-source. Currently, I'm building an **AI-powered sign language translation app** to make communication more accessible for **deaf, blind, and mute individuals**.
 
-💡 *Dreaming of living in France and working at Apple or Google someday!*
+💡 *Dreaming of living in France and working at Pinterest someday!*
 
 ---
 
