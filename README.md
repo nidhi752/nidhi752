@@ -42,6 +42,24 @@ I enjoy building products that combine **AI, software engineering and user exper
 - 🏅 **Smart India Hackathon 2023** — ranked **#47 among 10,000+ teams**
 
 ---
+## 🌌 Contribution Galaxy
+
+<div align="center">
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+
+</div>
+
+## 🎧 Currently Vibing To
+
+<div align="center">
+
+<img
+  src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=natemoo-re&show_offline=false&background_color=0D1117&interchange=true&bar_color=ff69b4&bar_color_cover=false"
+  alt="Spotify Now Playing"
+/>
+
+</div>
 
 ## GitHub
 
