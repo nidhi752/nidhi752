@@ -1,57 +1,88 @@
-# Hey there! I'm Nidhi !
+<div align="center">
+
+# Hi, I'm Nidhi Kuntal 👋
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=1000&color=F472B6&center=true&vCenter=true&width=700&lines=AI+%26+ML+Developer;Computer+Science+Engineer;Building+Useful+Things+with+Technology" />
+
+<br/>
+
+**B.Tech CSE (AI & ML) @ Bennett University**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nidhikuntal0310/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/nidhi752)
+[![Email](https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nidhikuntal9@gmail.com)
+
+</div>
+
+---
+
+## About Me
+
+I'm a final-year Computer Science Engineering student specialising in **AI & Machine Learning**.
+
+I enjoy building products that combine **AI, software engineering and user experience**, especially where technology can solve a real problem rather than just exist as a demo.
+
+
+
+
+## Tech Stack
 
 <div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80" height="80"/>
-</div>
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
 
-## 👩‍💻 About Me
-I'm **Nidhi Kuntal**, a **BTech CSE student at Bennett University** passionate about AI, full-stack development, and open-source. Currently, I'm building an **AI-powered sign language translation app** to make communication more accessible for **deaf, blind, and mute individuals**.
+<img src="https://skillicons.dev/icons?i=python,cpp,js,react,nodejs,mongodb,tensorflow,docker,git,github,figma,vscode&perline=6" />
 
-💡 *Dreaming of living in France and working at Pinterest someday!*
+</div>
 
 ---
 
-## ⏳ Monthly Tech Engagement
+## Highlights
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
+- 🤖 **R&D Co-Head, Technotix Robotics Club** — mentored 10+ technical teams
+- 🌍 **Deputy Minister, International Relations** — coordinated 3+ academic collaborations
+- 🏅 **Smart India Hackathon 2023** — ranked **#47 among 10,000+ teams**
 
 ---
-## 🛠️ Tech Stack & Tools
+
+## GitHub
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,react,nodejs,mongodb,docker,tensorflow,figma&theme=light" alt="Tech Stack"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=nidhi752&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidhi752&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## Contribution Snake
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nidhi752&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidhi752&layout=compact&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nidhi752&theme=tokyonight" width="48%"/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nidhi752/nidhi752/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nidhi752/nidhi752/output/github-contribution-grid-snake.svg">
+  <img alt="Nidhi's contribution snake" src="https://raw.githubusercontent.com/nidhi752/nidhi752/output/github-contribution-grid-snake.svg">
+</picture>
+
 </div>
 
 ---
 
-## ☕ Support My Work
-If you like what I do, consider buying me a coffee! 😄
-[![Buy Me A Coffee](https://img.shields.io/badge/☕-Buy%20Me%20A%20Coffee-F79256?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/nidhi752)
+## Open Source
+
+<div align="center">
+
+[![Holopin Badges](https://holopin.me/nidhi752)](https://holopin.io/@nidhi752)
+
+</div>
 
 ---
 
-## 🌐 Connect With Me
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/nidhi752)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nidhikuntal0310/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:nidhikuntal9@gmail.com)
+<div align="center">
 
-✨ Thanks for stopping by! Happy coding! 🚀
+### `build → learn → improve → ship`
 
+![Profile Views](https://komarev.com/ghpvc/?username=nidhi752&style=flat-square&color=ff69b4)
 
-
-
-
-[![An image of @nidhi752's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nidhi752)](https://holopin.io/@nidhi752)
+</div>
