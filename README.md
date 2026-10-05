@@ -1,32 +1,24 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0D1117,45:3B0A45,75:831843,100:FF4FD8&text=NIDHI%20KUNTAL&fontColor=FFFFFF&fontSize=54&fontAlignY=38&desc=AI%20%7C%20ML%20%7C%20ENGINEERING%20%7C%20BUILDING%20COOL%20THINGS&descAlignY=58&descSize=16&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:FDECEF,45:EFC7D8,100:C98AAE&text=Nidhi%20Kuntal&fontColor=5A344B&fontSize=50&fontAlignY=38&desc=AI%20%26%20ML%20%7C%20Computer%20Science%20%7C%20Building%20with%20Purpose&descAlignY=57&descSize=15&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=FF4FD8&center=true&vCenter=true&width=760&lines=AI+%26+ML+Developer;Computer+Science+Engineer;Building+Useful+Things+with+Technology;PLAYER+STATUS%3A+ONLINE+%F0%9F%8E%AE" />
+<img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=500&size=21&duration=2800&pause=1000&color=C97FA3&center=true&vCenter=true&width=720&lines=AI+%26+ML+Developer;Computer+Science+Engineer;Building+Useful+Things+with+Technology" />
 
 <br/>
 
 **B.Tech CSE (AI & ML) @ Bennett University**
 
-<br/>
-
-![Status](https://img.shields.io/badge/STATUS-ONLINE-FF4FD8?style=for-the-badge)
-![Class](https://img.shields.io/badge/CLASS-AI_%26_ML-8B5CF6?style=for-the-badge)
-![Mode](https://img.shields.io/badge/MODE-BUILDING-EC4899?style=for-the-badge)
-
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF4FD8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nidhikuntal0310/)
-[![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nidhi752)
-[![Email](https://img.shields.io/badge/Email-EC4899?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nidhikuntal9@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-D99AB8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nidhikuntal0310/)
+[![GitHub](https://img.shields.io/badge/GitHub-5A344B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nidhi752)
+[![Email](https://img.shields.io/badge/Email-C98AAE?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nidhikuntal9@gmail.com)
 
 </div>
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=75&color=0:111827,40:3B0A45,100:FF4FD8&text=PLAYER%20PROFILE&fontColor=FFFFFF&fontSize=25"/>
-
-## About Me
+## ✿ About Me
 
 I'm a final-year Computer Science Engineering student specialising in **AI & Machine Learning**.
 
@@ -34,21 +26,17 @@ I enjoy building products that combine **AI, software engineering and user exper
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=75&color=0:0D1117,45:4A044E,100:EC4899&text=SKILL%20TREE&fontColor=FFFFFF&fontSize=25"/>
-
-## Tech Stack
+## ♡ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,js,react,nodejs,mongodb,tensorflow,docker,git,github,figma,vscode&perline=6&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,cpp,js,react,nodejs,mongodb,tensorflow,docker,git,github,figma,vscode&perline=6&theme=light" />
 
 </div>
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=75&color=0:111827,50:581C87,100:F472B6&text=ACHIEVEMENTS%20UNLOCKED&fontColor=FFFFFF&fontSize=25"/>
-
-## Highlights
+## ✧ Highlights
 
 - 🤖 **R&D Co-Head, Technotix Robotics Club** — mentored 10+ technical teams
 - 🌍 **Deputy Minister, International Relations** — coordinated 3+ academic collaborations
@@ -56,9 +44,7 @@ I enjoy building products that combine **AI, software engineering and user exper
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=75&color=0:0D1117,45:312E81,100:FF4FD8&text=WORLD%20MAP%20%2F%2F%20CONTRIBUTION%20GALAXY&fontColor=FFFFFF&fontSize=23"/>
-
-## 🌌 Contribution Galaxy
+## ☁ Contribution Galaxy
 
 <div align="center">
 
@@ -68,14 +54,12 @@ I enjoy building products that combine **AI, software engineering and user exper
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=75&color=0:111827,45:4A044E,100:FF4FD8&text=NOW%20PLAYING&fontColor=FFFFFF&fontSize=25"/>
-
 ## 🎧 Currently Vibing To
 
 <div align="center">
 
 <img
-  src="https://spotify-github-profile.kittinanx.com/api/view?uid=xzl9cr94l9ac5732e2gpfyt7h&cover_image=true&theme=default&show_offline=true&background_color=0D1117&interchange=true&bar_color=ff4fd8&bar_color_cover=false"
+  src="https://spotify-github-profile.kittinanx.com/api/view?uid=xzl9cr94l9ac5732e2gpfyt7h&cover_image=true&theme=default&show_offline=true&background_color=F7E8EE&interchange=true&bar_color=C98AAE&bar_color_cover=false"
   alt="Spotify Now Playing"
 />
 
@@ -83,25 +67,21 @@ I enjoy building products that combine **AI, software engineering and user exper
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=75&color=0:0D1117,50:581C87,100:EC4899&text=PLAYER%20STATS&fontColor=FFFFFF&fontSize=25"/>
-
-## GitHub
+## ✿ GitHub
 
 <div align="center">
 
 <img height="165"
-src="https://github-readme-stats.vercel.app/api?username=nidhi752&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF4FD8&text_color=FFFFFF&icon_color=F472B6&border_color=FF4FD8"/>
+src="https://github-readme-stats.vercel.app/api?username=nidhi752&show_icons=true&hide_border=true&bg_color=FFF8FB&title_color=C98AAE&text_color=5A344B&icon_color=D99AB8"/>
 
 <img height="165"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidhi752&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF4FD8&text_color=FFFFFF"/>
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidhi752&layout=compact&hide_border=true&bg_color=FFF8FB&title_color=C98AAE&text_color=5A344B"/>
 
 </div>
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=75&color=0:111827,45:3B0A45,100:F472B6&text=BONUS%20LEVEL%20%2F%2F%20CONTRIBUTION%20SNAKE&fontColor=FFFFFF&fontSize=23"/>
-
-## Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -115,9 +95,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidhi752&lay
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=75&color=0:0D1117,45:4A044E,100:FF4FD8&text=SIDE%20QUESTS%20%2F%2F%20OPEN%20SOURCE&fontColor=FFFFFF&fontSize=23"/>
-
-## Open Source
+## ✧ Open Source
 
 <div align="center">
 
@@ -127,28 +105,18 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidhi752&lay
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=75&color=0:111827,50:581C87,100:EC4899&text=CURRENT%20XP&fontColor=FFFFFF&fontSize=25"/>
-
 <div align="center">
 
 ### `build → learn → improve → ship`
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=nidhi752&style=for-the-badge&color=ff4fd8)
-
-</div>
-
----
-
-<div align="center">
-
-### 💭 `idea → code → bug → existential crisis → fix → ship`
-
-<sub>STATUS: respawning after bugs...</sub>
+![Profile Views](https://komarev.com/ghpvc/?username=nidhi752&style=flat-square&color=c98aae)
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:FF4FD8,45:831843,75:3B0A45,100:0D1117"/>
+### ♡ `idea → code → bug → fix → ship`
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:C98AAE,50:EFC7D8,100:FDECEF"/>
 
 </div>
