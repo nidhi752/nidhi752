@@ -1,12 +1,20 @@
 <div align="center">
 
-# Hi, I'm Nidhi Kuntal 👋
+# 🎮 Hi, I'm Nidhi Kuntal 👋
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=1000&color=F472B6&center=true&vCenter=true&width=700&lines=AI+%26+ML+Developer;Computer+Science+Engineer;Building+Useful+Things+with+Technology" />
 
 <br/>
 
 **B.Tech CSE (AI & ML) @ Bennett University**
+
+<br/>
+
+![Status](https://img.shields.io/badge/STATUS-ONLINE-FF4FD8?style=for-the-badge)
+![Class](https://img.shields.io/badge/CLASS-AI_%26_ML-8B5CF6?style=for-the-badge)
+![Mode](https://img.shields.io/badge/MODE-BUILDING-FF69B4?style=for-the-badge)
+
+<br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nidhikuntal0310/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/nidhi752)
@@ -16,16 +24,15 @@
 
 ---
 
-## About Me
+## 🕹️ PLAYER PROFILE // About Me
 
 I'm a final-year Computer Science Engineering student specialising in **AI & Machine Learning**.
 
 I enjoy building products that combine **AI, software engineering and user experience**, especially where technology can solve a real problem rather than just exist as a demo.
 
+---
 
-
-
-## Tech Stack
+## 🌳 SKILL TREE // Tech Stack
 
 <div align="center">
 
@@ -35,14 +42,15 @@ I enjoy building products that combine **AI, software engineering and user exper
 
 ---
 
-## Highlights
+## 🏆 ACHIEVEMENTS UNLOCKED // Highlights
 
 - 🤖 **R&D Co-Head, Technotix Robotics Club** — mentored 10+ technical teams
 - 🌍 **Deputy Minister, International Relations** — coordinated 3+ academic collaborations
 - 🏅 **Smart India Hackathon 2023** — ranked **#47 among 10,000+ teams**
 
 ---
-## 🌌 Contribution Galaxy
+
+## 🌌 WORLD MAP // Contribution Galaxy
 
 <div align="center">
 
@@ -50,7 +58,9 @@ I enjoy building products that combine **AI, software engineering and user exper
 
 </div>
 
-## 🎧 Currently Vibing To
+---
+
+## 🎧 NOW PLAYING // Currently Vibing To
 
 <div align="center">
 
@@ -61,7 +71,9 @@ I enjoy building products that combine **AI, software engineering and user exper
 
 </div>
 
-## GitHub
+---
+
+## 📊 PLAYER STATS // GitHub
 
 <div align="center">
 
@@ -73,7 +85,7 @@ I enjoy building products that combine **AI, software engineering and user exper
 
 ---
 
-## Contribution Snake
+## 🐍 BONUS LEVEL // Contribution Snake
 
 <div align="center">
 
@@ -87,7 +99,7 @@ I enjoy building products that combine **AI, software engineering and user exper
 
 ---
 
-## Open Source
+## 🧩 SIDE QUESTS // Open Source
 
 <div align="center">
 
@@ -97,16 +109,22 @@ I enjoy building products that combine **AI, software engineering and user exper
 
 ---
 
+## 💗 CURRENT XP
+
 <div align="center">
 
 ### `build → learn → improve → ship`
 
-![Profile Views](https://komarev.com/ghpvc/?username=nidhi752&style=flat-square&color=ff69b4)
+![Profile Views](https://komarev.com/ghpvc/?username=nidhi752&style=for-the-badge&color=ff69b4)
 
 </div>
+
+---
 
 <div align="center">
 
 ### 💭 `idea → code → bug → existential crisis → fix → ship`
+
+<sub>STATUS: respawning after bugs</sub>
 
 </div>
