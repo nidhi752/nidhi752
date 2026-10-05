@@ -1,14 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:FDECEF,45:EFC7D8,100:C98AAE&text=Nidhi%20Kuntal&fontColor=5A344B&fontSize=50&fontAlignY=38&desc=AI%20%26%20ML%20%7C%20Computer%20Science%20%7C%20Building%20with%20Purpose&descAlignY=57&descSize=15&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:FDECEF,50:EFC7D8,100:C98AAE&text=Nidhi%20Kuntal&fontColor=5A344B&fontSize=46&fontAlignY=38&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=500&size=21&duration=2800&pause=1000&color=C97FA3&center=true&vCenter=true&width=720&lines=AI+%26+ML+Developer;Computer+Science+Engineer;Building+Useful+Things+with+Technology" />
-
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=500&size=20&duration=2800&pause=1000&color=C97FA3&center=true&vCenter=true&width=700&height=42&lines=AI+%26+ML+Developer;Computer+Science+Engineer;Building+Useful+Things+with+Technology" />
 
 **B.Tech CSE (AI & ML) @ Bennett University**
-
-<br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-D99AB8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nidhikuntal0310/)
 [![GitHub](https://img.shields.io/badge/GitHub-5A344B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nidhi752)
@@ -16,15 +12,11 @@
 
 </div>
 
----
-
 ## ✿ About Me
 
 I'm a final-year Computer Science Engineering student specialising in **AI & Machine Learning**.
 
 I enjoy building products that combine **AI, software engineering and user experience**, especially where technology can solve a real problem rather than just exist as a demo.
-
----
 
 ## ♡ Tech Stack
 
@@ -34,17 +26,13 @@ I enjoy building products that combine **AI, software engineering and user exper
 
 </div>
 
----
-
 ## ✧ Highlights
 
 - 🤖 **R&D Co-Head, Technotix Robotics Club** — mentored 10+ technical teams
 - 🌍 **Deputy Minister, International Relations** — coordinated 3+ academic collaborations
 - 🏅 **Smart India Hackathon 2023** — ranked **#47 among 10,000+ teams**
 
----
-
-## ☁ Contribution Galaxy
+## ☁ Contribution Map
 
 <div align="center">
 
@@ -52,34 +40,24 @@ I enjoy building products that combine **AI, software engineering and user exper
 
 </div>
 
----
-
 ## 🎧 Currently Vibing To
 
 <div align="center">
 
 <img
-  src="https://spotify-github-profile.kittinanx.com/api/view?uid=xzl9cr94l9ac5732e2gpfyt7h&cover_image=true&theme=default&show_offline=true&background_color=F7E8EE&interchange=true&bar_color=C98AAE&bar_color_cover=false"
+  src="https://spotify-github-profile.kittinanx.com/api/view?uid=xzl9cr94l9ac5732e2gpfyt7h&cover_image=true&theme=default&show_offline=true&background_color=0D1117&interchange=true&bar_color_cover=true"
   alt="Spotify Now Playing"
 />
 
 </div>
-
----
-
 ## ✿ GitHub
 
 <div align="center">
 
-<img height="165"
-src="https://github-readme-stats.vercel.app/api?username=nidhi752&show_icons=true&hide_border=true&bg_color=FFF8FB&title_color=C98AAE&text_color=5A344B&icon_color=D99AB8"/>
-
-<img height="165"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidhi752&layout=compact&hide_border=true&bg_color=FFF8FB&title_color=C98AAE&text_color=5A344B"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=nidhi752&show_icons=true&hide_border=true&bg_color=FFF8FB&title_color=C98AAE&text_color=5A344B&icon_color=D99AB8"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidhi752&layout=compact&hide_border=true&bg_color=FFF8FB&title_color=C98AAE&text_color=5A344B"/>
 
 </div>
-
----
 
 ## 🐍 Contribution Snake
 
@@ -93,8 +71,6 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidhi752&lay
 
 </div>
 
----
-
 ## ✧ Open Source
 
 <div align="center">
@@ -103,20 +79,14 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidhi752&lay
 
 </div>
 
----
-
 <div align="center">
 
 ### `build → learn → improve → ship`
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nidhi752&style=flat-square&color=c98aae)
 
-<br/><br/>
-
 ### ♡ `idea → code → bug → fix → ship`
 
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:C98AAE,50:EFC7D8,100:FDECEF"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:C98AAE,50:EFC7D8,100:FDECEF"/>
 
 </div>
