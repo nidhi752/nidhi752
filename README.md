@@ -104,3 +104,9 @@ I enjoy building products that combine **AI, software engineering and user exper
 ![Profile Views](https://komarev.com/ghpvc/?username=nidhi752&style=flat-square&color=ff69b4)
 
 </div>
+
+<div align="center">
+
+### 💭 `idea → code → bug → existential crisis → fix → ship`
+
+</div>
