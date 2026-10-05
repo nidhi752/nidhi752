@@ -55,7 +55,7 @@ I enjoy building products that combine **AI, software engineering and user exper
 <div align="center">
 
 <img
-  src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=natemoo-re&show_offline=false&background_color=0D1117&interchange=true&bar_color=ff69b4&bar_color_cover=false"
+  src="https://spotify-github-profile.kittinanx.com/api/view?uid=Nids&cover_image=true&theme=natemoo-re&show_offline=false&background_color=0D1117&interchange=true&bar_color=ff69b4&bar_color_cover=false"
   alt="Spotify Now Playing"
 />
 
